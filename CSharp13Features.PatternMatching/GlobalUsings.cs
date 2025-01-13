@@ -1,0 +1,9 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using CSharp13Features;
+global using CSharp13Features.Models;
+global using CSharp13Features.PatternMatching;
+global using CSharp13Features.Structs;
