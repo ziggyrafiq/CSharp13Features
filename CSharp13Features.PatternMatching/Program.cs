@@ -19,6 +19,7 @@ Console.WriteLine(nullables.GetNonNullableString());
 
 Point pointOne = new Point(50, 20);
 Point pointTwo = new Point(80, 10);
+Console.WriteLine(pointOne == pointTwo);
 
 Tuples.DeconstructTuple();
 

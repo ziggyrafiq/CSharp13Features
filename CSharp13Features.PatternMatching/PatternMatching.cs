@@ -23,6 +23,4 @@ public static class PatternMatching
             _ => "Unknown person"
         };
     }
-
-
 }
